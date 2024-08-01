@@ -16,11 +16,10 @@
 .navlist{
     display: flex;
     gap: 3.5rem;
-    
     height: 15vh;
     justify-content: center;
     align-items: center;
-    position: fixed;
+    position: absolute;
 }
 
 .navlist li{
